@@ -2,9 +2,9 @@
 
 The following project consists of api for the following.
 
-- [ ] Get app reviews
-- [ ] Search apps
-- [ ] Get app details
+- [X] Get app reviews
+- [X] Search apps
+- [X] Get app details
 
 
 > At present the app supports, AppStore, Playstore support will be added soon.
